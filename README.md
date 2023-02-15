@@ -1,12 +1,45 @@
 
-## Intro  
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
-</div>  
+</div>   -->
   
+## Hey 👋, I'm Badar! 
+<!-- ## <div align="center">I'm <b>Badar</b>, a junior full-stack freelance developer 👨‍💻 🚀</div>   -->
 
-### <div align="center">I'm Badar, a junior full-stack freelance developer 👨‍💻 🚀</div>  
-  
+<br/>
+
+### Glad to see you here!  
+As a full-stack junior developer, I have transitioned my freelance experience into a full-time career. With my skills in both front-end and back-end development, I can create custom client-facing applications and websites that incorporate the latest in technology.
+
+My specialization lies in creating visually appealing designs and enhancing the functionality of client-facing applications. I firmly believe that the user interface is the most crucial aspect of any app as it creates an impression on the user. My expertise includes creating responsive designs that are user-friendly and efficient.
+
+In addition to my development work, I love sharing my knowledge with other developers through blog posts and social media. I often share my designs and give tips on how to improve as a programmer. I am always striving to learn new techniques and technologies to enhance my skills as a developer.  
+
+<br/>
+
+<!-- ## Connect with me   -->
+<div align="center">
+<a href="https://github.com/badi21" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/badi2101" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/badi21" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/badi21" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/badi_21" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/badi21" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>  
+</div> 
+
+<br/>  
 
 - 🔭 I’m currently working as a [Freelancer](https://thebadr.site)    
   
@@ -60,41 +93,16 @@
 </div> 
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/badi21" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/badi2101" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/badi21" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/badi21" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/badi_21" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/badi21" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
-<br/>  
 
+## Github Stats
+<table align="center"><tr><td valign="top" width="50%">
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=badi21&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=badi21&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badi21&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badi21&hide_border=true&layout=compact" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -102,9 +110,6 @@
 
 <br/>  
 
-  
-
-<br/>  
 
   
 
@@ -120,4 +125,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
