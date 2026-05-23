@@ -1,39 +1,59 @@
-Hi👋 my name is Badar
-=============================================================================================================================
+# Badar · [@BadarDev](https://github.com/badi21)
 
-Computer Engineer | Full Stack Developer
-----------------------------------------
+**Founder @ [VeyraLabs](https://veyralabs.com)** — Web agency for founders who don't speak tech but know what they want.
 
-Full Stack developer specialized in creating visually appealing designs and enhancing functionality in client-facing applications and create scripts on backend prokjects Also, passionate about sharing knowledge on Twitter to help people to learn code
+I build things at the intersection of design, product, and infrastructure. Full stack by day, automating workflows by night, occasionally losing sleep over Pine Script strategies.
 
-* 🌍  I'm based in Madrid
-* 🖥️  See my portfolio at [my website](http://thebadr.tech)
-* ✉️  You can contact me at [info@thebadr.tech](mailto:info@thebadr.tech)
-* 🚀  I'm currently working on [academy School](http://nightscoding.com)
-* 🧠  I'm learning MongoDB, ExpressJS, ReactJS, and NodeJS (MERN)
-* 🤝  I'm open to collaborating on others projects
-* ⚡  There are 10 types of people in the world: those who understand binary, and those who don't
+---
 
-<a href="https://www.x.com/badi2101" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/badi2101?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Skills
+## What I ship
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+| Project | Stack | Status |
+|---|---|---|
+| [VeyraLabs](https://veyralabs.com) | WordPress · Next.js · n8n | Active |
+| Li'Taco Frances | Next.js · PostgreSQL · Three.js · Prisma | In production |
+| Pine Script Suite | TradingView Pine Script v5 | Live — Basic / Trader / PRO tiers |
+| Moneto iOS | React Native | In development |
+| SaaS Cataloger | n8n · Firecrawl · Gemini · Chrome Extension | Internal tooling |
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.dev.to/badi21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/badi21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/badi21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/badi2101" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+## Stack
 
-### Badges
+```
+Frontend    →  Next.js · React · Three.js · TypeScript · Tailwind · Framer Motion
+Backend     →  Node.js · PostgreSQL · Prisma · REST · n8n (self-hosted)
+Infra       →  Linux VPS · WireGuard VPN · Docker · cPanel · SSH
+AI / Auto   →  Claude · Gemini API · Firecrawl · GitHub Actions · MCP protocol
+Trading     →  Pine Script · Python · Binance · TradingView
+Design      →  Figma · Photoshop · Illustrator · After Effects
+```
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/badi21"><img src="https://github-readme-stats.vercel.app/api?username=badi21&show_icons=true&hide=prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="badi21's GitHub stats" /></a>
+## How I work
 
-### Support Me
+Solo builder. I design, develop, deploy, and maintain — no handoffs.  
+Client work through VeyraLabs. Products on the side.  
+Based in **Madrid** 🇪🇸
 
-<a href="https://www.buymeacoffee.com/badi21"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+> I'm not open to low-budget requests. I am open to interesting problems.
 
+---
+
+## Writing / Updates
+
+I share things worth sharing on [X / Twitter](https://x.com/badrmind) — mostly about building products, web dev, and tools that actually work.
+
+---
+
+## Stats
+
+<a href="https://github.com/badi21">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=badi21&show_icons=true&hide=prs,contribs&count_private=true&title_color=E6361A&text_color=ffffff&icon_color=FDB727&bg_color=0d0d0d&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badi21&layout=compact&title_color=E6361A&text_color=ffffff&bg_color=0d0d0d&hide_border=true&langs_count=6" />
+</a>
+
+---
+
+<sub>veyralabs.com · info@thebadr.tech · Madrid</sub>
