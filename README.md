@@ -22,5 +22,4 @@ I work primarily in **Next.js** and **TypeScript**, with experience across web a
 - 🌐 [veyralabs.com](https://veyralabs.com)
 - 🐦 [x.com/badrmind](https://x.com/badrmind)
 - 💼 [linkedin.com/in/badi21](https://linkedin.com/in/badi21)
-- ✉️ info@thebadr.tech
 - ⚡ There are 10 types of people in the world: those who understand binary, and those who don't
