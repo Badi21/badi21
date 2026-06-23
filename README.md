@@ -1,6 +1,6 @@
 Hi, I'm Badar 👋
 
-I'm a Full Stack Developer and founder of **[VeyraLabs](https://veyralabs.com)** — a web agency for founders who need a real technical partner, not just a freelancer. Based in Madrid, I design, build, deploy, and maintain. No handoffs.
+I'm a Full Stack Developer and founder of **[VeyraLabs](https://github.com/orgs/veyralabsgroup/repositories)** a web agency for founders who need a real technical partner, not just a freelancer. Based in Madrid, I design, build, deploy, and maintain. No handoffs.
 
 I work primarily in **Next.js** and **TypeScript**, with experience across web apps, automation pipelines, 3D interfaces, and algorithmic trading systems.
 
